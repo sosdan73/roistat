@@ -1,0 +1,7 @@
+@mixin transition-bgc {
+    transition: background-color .3s ease-in-out;
+}
+@mixin dark {
+    background-color: #333;
+    color: #fff;
+}
